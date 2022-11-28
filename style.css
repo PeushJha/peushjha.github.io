@@ -365,7 +365,7 @@ nav .fa-solid{
         height: 100vh;
         padding-top: 50px;
         flex-direction: column;
-        z-index: 2;
+        z-index: 1111;
         transition: right 0.5s;
     }
     nav ul li{
