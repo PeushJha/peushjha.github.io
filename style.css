@@ -68,7 +68,7 @@ nav ul li a:hover::before{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
-    z-index: 111;
+    z-index: 11;
 }
 .header-text h1{
     font-size: 60px;
